@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Arseny Poltev, a full-stack web developer with experience in building web applications. I'm passionate about creating beautiful and functional websites that provide a great user experience.
+I'm a full-stack web developer with experience in building web applications. I'm passionate about creating beautiful and functional websites that provide a great user experience.
 
 ## Web Development Experience
 
