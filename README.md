@@ -1,29 +1,48 @@
-# Hi there 👋
 
-I'm a full-stack web developer with experience in building web applications. I'm passionate about creating beautiful and functional websites that provide a great user experience.
+# Full-Stack Web Developer & Blockchain Engineer
 
-## Web Development Experience
+## About Me
 
-During my career, I've worked on a wide variety of projects, from small websites to large-scale web applications. I'm experienced in both front-end and back-end development, and I'm comfortable working with a range of modern web technologies.
+I am a Senior Software Engineer with extensive experience in building high-performance, scalable systems, particularly in the areas of Web3, blockchain development, and decentralized applications (DApps). Over the past 9+ years, I have worked with a wide range of technologies across the full-stack spectrum, from frontend frameworks like React and Vue.js to backend systems using Golang, Rust, .NET, and more.
 
-Some of the key skills and technologies I've worked with include:
+I am passionate about building robust, secure, and scalable solutions, especially in blockchain, DeFi, NFT platforms, and smart contract development.
 
-- 🌐 HTML, CSS, and JavaScript
-- ⚛️ React, Angular, and Vue.js
-- 🖥️ Node.js and Express
-- 🗄️ MySQL and MongoDB
-- 📜 Git and GitHub
-- ☁️ AWS services such as EC2 and S3
+## Skills & Technologies
 
-## Other Technology Skills
+### Web Development
 
-In addition to my web development skills, I have experience with a range of other technologies that are useful in software development. These include:
+- **Frontend:** React, Angular, Vue.js, Next.js
+- **Backend:** Node.js, Express, .NET Core, Rust
+- **Databases:** MySQL, MongoDB, PostgreSQL, Redis
+- **Version Control:** Git, GitHub
+- **Cloud:** AWS (EC2, S3, ECS, EKS, Lambda), GCP (GKE, Pub/Sub)
+- **DevOps & CI/CD:** Docker, Kubernetes, Jenkins, GitLab CI, GitHub Actions, Terraform
 
-- 🐍 Python and Django
-- ☕ Java and Spring Framework
-- 🔄 Agile development methodologies such as Scrum and Kanban
-- 📊 JIRA and Trello for project management
+### Blockchain & Web3 Development
 
-## Contact Me
+- **Smart Contracts:** Solidity (ERC-20, ERC-721, ERC-1155, upgradeable contracts)
+- **Web3 Integration:** Ethers.js, Web3.js, MetaMask, WalletConnect
+- **Blockchain Networks:** Ethereum, Polygon, Binance Smart Chain
+- **Tools & Frameworks:** Hardhat, Foundry, Truffle, IPFS, The Graph, Chainlink
+- **DeFi, NFT, and DAO Development:** Full-stack DApp development and integration with EVM-compatible blockchains
+- **Layer 2 Solutions:** Arbitrum, Optimism
+- **Security & Auditing:** Slither, MythX, smart contract gas optimization
 
-If you're interested in working together or just want to chat about web development, feel free to reach out to me. I'd love to hear from you!
+### Systems & Backend Development
+
+- **Programming Languages:** Golang, C++, Rust, C#, TypeScript, JavaScript
+- **Microservices & APIs:** REST, gRPC, WebSockets, Kafka, RabbitMQ
+- **Testing:** GoogleTest, xUnit, Foundry tests, Rust test framework
+- **Authentication & Security:** RBAC, JWT, OAuth2
+
+## Highlights
+
+- Designed and deployed full-stack Web3 DApps with Ethereum and Polygon, incorporating secure smart contracts and decentralized APIs.
+- Reduced smart contract gas costs by 35% through optimization techniques and modular architecture.
+- Developed real-time blockchain data pipelines using Kafka and WebSockets to support high-throughput transactions.
+- Built and deployed smart contract-based solutions for DeFi staking and liquidity pool systems.
+- Led the integration of NFT minting functionality and metadata storage via IPFS and The Graph.
+
+## Get in Touch
+
+If you’re interested in collaborating on blockchain or Web3-related projects or want to discuss any development opportunities, feel free to connect with me through my GitHub.
