@@ -1,48 +1,82 @@
+## Summary
 
-# Full-Stack Web Developer & Blockchain Engineer
+Versatile, AI-enabled full-stack developer with deep experience in scalable databases (SQL Server, MongoDB, PostgreSQL, MySQL, Big Data), web and mobile application development, and multimodal AI integrations.  
+Expertise spans modern front-end frameworks (React, Angular, Vue, Next.js), robust back-end stacks (.NET, Node.js, Go, Python), and cloud-native architecture across Azure, AWS, and GCP.  
+Highly skilled in building REST and GraphQL APIs, cloud automation with Terraform, container orchestration using Docker and Kubernetes, and GPT/LLM-based solutions to boost productivity and user experience.
 
-## About Me
+---
 
-I am a Senior Software Engineer with extensive experience in building high-performance, scalable systems, particularly in the areas of Web3, blockchain development, and decentralized applications (DApps). Over the past 9+ years, I have worked with a wide range of technologies across the full-stack spectrum, from frontend frameworks like React and Vue.js to backend systems using Golang, Rust, .NET, and more.
+## Technical Skills
 
-I am passionate about building robust, secure, and scalable solutions, especially in blockchain, DeFi, NFT platforms, and smart contract development.
+### Front-End
+- JavaScript (JS), TypeScript (TS)
+- React, Angular, Vue, Next.js
+- Blazor, Bootstrap, jQuery
 
-## Skills & Technologies
+### Back-End
+- Node.js, .NET, C#
+- Golang, Python (Django, Flask, FastAPI)
+- PHP, Ruby, Java
 
-### Web Development
+### Mobile Development
+- React Native
+- Kotlin
+- Swift
 
-- **Frontend:** React, Angular, Vue.js, Next.js
-- **Backend:** Node.js, Express, .NET Core, Rust
-- **Databases:** MySQL, MongoDB, PostgreSQL, Redis
-- **Version Control:** Git, GitHub
-- **Cloud:** AWS (EC2, S3, ECS, EKS, Lambda), GCP (GKE, Pub/Sub)
-- **DevOps & CI/CD:** Docker, Kubernetes, Jenkins, GitLab CI, GitHub Actions, Terraform
+### Databases
+- SQL Server
+- MongoDB
+- PostgreSQL
+- MySQL
+- NoSQL
+- Big Data
 
-### Blockchain & Web3 Development
+### Cloud Platforms
+- **AWS:** S3, EC2, Lambda, DynamoDB, SNS, SQS
+- **Azure:** Cosmos DB, Azure DevOps, Azure Functions
+- **GCP**
 
-- **Smart Contracts:** Solidity (ERC-20, ERC-721, ERC-1155, upgradeable contracts)
-- **Web3 Integration:** Ethers.js, Web3.js, MetaMask, WalletConnect
-- **Blockchain Networks:** Ethereum, Polygon, Binance Smart Chain
-- **Tools & Frameworks:** Hardhat, Foundry, Truffle, IPFS, The Graph, Chainlink
-- **DeFi, NFT, and DAO Development:** Full-stack DApp development and integration with EVM-compatible blockchains
-- **Layer 2 Solutions:** Arbitrum, Optimism
-- **Security & Auditing:** Slither, MythX, smart contract gas optimization
+### Security & Compliance
+- HIPAA
+- Azure Key Vault
+- Azure Sentinel
+- Web Application Firewall (WAF)
+- AML Monitoring Tools
 
-### Systems & Backend Development
+### Scripting & Automation
+- CI/CD Pipelines
+- GitHub Copilot
+- Apache Airflow
 
-- **Programming Languages:** Golang, C++, Rust, C#, TypeScript, JavaScript
-- **Microservices & APIs:** REST, gRPC, WebSockets, Kafka, RabbitMQ
-- **Testing:** GoogleTest, xUnit, Foundry tests, Rust test framework
-- **Authentication & Security:** RBAC, JWT, OAuth2
+### DevOps & Infrastructure
+- Docker
+- Kubernetes
+- GitHub Actions
+- Jenkins
+- Terraform
 
-## Highlights
+### Messaging & Streaming
+- RabbitMQ
+- Kafka
+- Redis
 
-- Designed and deployed full-stack Web3 DApps with Ethereum and Polygon, incorporating secure smart contracts and decentralized APIs.
-- Reduced smart contract gas costs by 35% through optimization techniques and modular architecture.
-- Developed real-time blockchain data pipelines using Kafka and WebSockets to support high-throughput transactions.
-- Built and deployed smart contract-based solutions for DeFi staking and liquidity pool systems.
-- Led the integration of NFT minting functionality and metadata storage via IPFS and The Graph.
+### CMS & E-Commerce
+- WordPress
+- Shopify
+- Wix
 
-## Get in Touch
+### AI / ML / LLM
+- Generative AI
+- Azure OpenAI APIs
+- PyTorch
+- TensorFlow
+- RAG (Retrieval-Augmented Generation)
+- LangChain
+- FastAPI
 
-If you’re interested in collaborating on blockchain or Web3-related projects or want to discuss any development opportunities, feel free to connect with me through my GitHub.
+### Testing
+- Cypress
+- Selenium
+- Jest
+- Jasmine
+- JUnit
